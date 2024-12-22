@@ -1,4 +1,4 @@
-## Catches of Week 51, 2024
+## Weekly Catch - Dec 22nd, 2024
 
 The holidays are almost here, and I've got some extra weekend time to dive into some intentional reading (not quite work, not quite pleasure, but super enjoyable!). Here are my top 3 catches:
 
