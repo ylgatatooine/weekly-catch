@@ -14,6 +14,23 @@ The U.S. economy stands in contrast to struggling European economies like German
 With President Trump set to be sworn into office tomorrow, I anticipate significant economic changes, particularly in the areas of Trade policies, tariffs, and the value of the U.S. dollar, as well as revival of cryptocurrency. I will also pay attention to DOGE—a program that might even influence perceptions of government debt. The direction of government debt and fiscal policy could take various unpredictable turns, leaving the economy hanging in the balance. It’s a time of potential volatility and change, so I’m staying vigilant and sharp to navigate what’s ahead.
 
 
+本周的经济数据显示美国经济的韧性，摩根大通和富国银行等主要银行的季度财报表现强劲。通胀保持低位，提供了稳定性，而政府债务问题可能导致国债收益率上升，从而影响股市。尽管欧洲面临挑战，美国经济依然强劲，但特朗普总统就职后，贸易政策和加密货币等领域的变化可能带来波动。随着财政政策的变化，保持警惕并灵活应对未来的不确定性至关重要。
+
+
+| **Indicator**                        | **Description**                                                       | **Current Value (as of January 2025)**                              |
+|--------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------|
+| **Debt-to-GDP Ratio**                | Ratio of national debt to GDP, indicating debt relative to the economy. | **124%** (well above the historical average of 35-40%)              |
+| **Interest Payments on Debt**        | Government spending on debt interest relative to total spending.      | **$650 billion** in 2025 (projected)                                |
+| **Federal Budget Deficit**           | The gap between government spending and revenue.                      | **$1.7 trillion** for fiscal year 2024                              |
+| **10-Year Treasury Yield**           | The yield on 10-year Treasury bonds, a gauge of investor confidence.   | **3.7%** (rising due to debt concerns and inflation expectations)   |
+| **Inflation Rate**                   | The rate at which prices for goods and services rise.                 | **3.2%** as of December 2024                                        |
+| **Debt-to-Tax Revenue Ratio**        | Percentage of tax revenue used to service government debt.            | **15-18%** of U.S. tax revenue used for interest payments (2024)    |
+| **Foreign Holdings of U.S. Debt**    | The amount of U.S. debt held by foreign governments and investors.    | **$7.5 trillion** (~30% of total national debt)                     |
+| **Credit Rating**                    | Assessment of the U.S. government's creditworthiness.                 | **AAA** (as of 2024, though risks of downgrade due to debt concerns)|
+| **Government Spending and Revenue Growth** | The annual growth rates of government spending and tax revenue.   | **4%** spending growth, **3%** revenue growth in 2024                |
+
+
+
 # Blog
 
 # 𝐌𝐞𝐦𝐨𝐫𝐲 𝐢𝐬 𝐀𝐥𝐥 𝐖𝐞 𝐆𝐨𝐭
